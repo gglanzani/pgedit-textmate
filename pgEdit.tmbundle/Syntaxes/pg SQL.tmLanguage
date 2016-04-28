@@ -7,6 +7,7 @@
 		<string>sql</string>
 		<string>pgsql</string>
 		<string>psql</string>
+		<string>hiveql</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>\s*\(\s*$</string>
